@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameCanvas.qml</file>
+        <file>icon/bottomBack.png</file>
+        <file>Ball.qml</file>
+        <file>icon/ball1.png</file>
+        <file>icon/ball2.png</file>
+        <file>BallRun.js</file>
+        <file>icon/ball3.png</file>
+        <file>icon/ball4.png</file>
+        <file>icon/ball5.png</file>
+        <file>icon/ball6.png</file>
+        <file>icon/ball7.png</file>
+        <file>icon/ball8.png</file>
+        <file>icon/ball9.png</file>
+        <file>icon/ball10.png</file>
+        <file>icon/ball11.png</file>
+        <file>icon/merge2.png</file>
+        <file>icon/merge3.png</file>
+        <file>icon/merge4.png</file>
+        <file>icon/merge5.png</file>
+        <file>icon/merge6.png</file>
+        <file>icon/merge7.png</file>
+        <file>icon/merge8.png</file>
+        <file>icon/merge9.png</file>
+        <file>icon/merge10.png</file>
+        <file>icon/merge11.png</file>
+        <file>MergeAnimal.qml</file>
+        <file>audio/down.wav</file>
+        <file>audio/finish.wav</file>
+        <file>audio/merge1.wav</file>
+        <file>audio/merge2.wav</file>
+        <file>ScoreNumber.qml</file>
+        <file>FinishWindow.qml</file>
+        <file>icon/finish.png</file>
+        <file>icon/number1.png</file>
+    </qresource>
+</RCC>
